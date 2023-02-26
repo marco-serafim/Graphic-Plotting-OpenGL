@@ -5,15 +5,22 @@ Simple 2D plotting with OpenGL and C: Supports navigation, Zoom, and in-program 
 Simply download the executable for windows or the compiled for Ubuntu;
 
 > # Controls:
+> 
 > w: Move up
 > a: Move left
+> 
 > s: Move down
+> 
 > d: Move right
 >
+> 
 > Scroll up: Zoom in
+> 
 > Scroll down: Zoom out
 >
+> 
 > +: Add 0.1 to the function b value
+> 
 > -: Decrease 0.1 to the function b value
 
 # Problems and issues:
