@@ -7,6 +7,7 @@ Simply download the executable for windows or the compiled for Ubuntu;
 > # Controls:
 > 
 > w: Move up
+> 
 > a: Move left
 > 
 > s: Move down
@@ -17,7 +18,6 @@ Simply download the executable for windows or the compiled for Ubuntu;
 > Scroll up: Zoom in
 > 
 > Scroll down: Zoom out
->
 > 
 > +: Add 0.1 to the function b value
 > 
