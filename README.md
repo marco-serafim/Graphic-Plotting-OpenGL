@@ -19,9 +19,9 @@ Simply download the executable for windows or the compiled for Ubuntu;
 > 
 > Scroll down: Zoom out
 > 
-> +: Add 0.1 to the function b value
+> + : Add 0.1 to the function b value
 > 
-> -: Decrease 0.1 to the function b value
+> - : Decrease 0.1 to the function b value
 
 # Problems and issues:
 
