@@ -1,4 +1,4 @@
-# Graphic-Plotting-OpenGL
+# MarcoGebra
 Simple 2D plotting with OpenGL and C: Supports navigation, Zoom, and in-program function manipulation.
 
 ![image](https://raw.githubusercontent.com/marco-serafim/Graphic-Plotting-OpenGL/main/Screenshot_20240120_155134.png)
